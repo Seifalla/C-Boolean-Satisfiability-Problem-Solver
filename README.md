@@ -8,7 +8,9 @@ The formulas are in conjunctive normal form (ANDs of ORs). The fitness of an ass
 # Running Instructions:
 
 This program runs on Linux 4.4.0-34-generic x86_64 (DMB 005)
+
 Compile: g++ main.cpp
+
 Run: ./a.out
 
 To run on many instances: compile and run ./hw3
