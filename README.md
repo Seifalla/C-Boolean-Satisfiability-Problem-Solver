@@ -13,7 +13,7 @@ Compile: g++ main.cpp
 
 All files must be in the same folder
 
-The test folder "sat" must be in the same folder as the program
+The test folder "SATinstances" must be in the same folder as the program
 
 Run: ./a.out
 
