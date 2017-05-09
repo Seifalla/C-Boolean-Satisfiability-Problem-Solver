@@ -5,7 +5,7 @@ a=1
 while [ $a -lt 100 ]
 do
    begin=`date +%s%N`
-   ./a.out ./sat/easy/"$a".cnf 1000
+   ./a.out ./easy/"$a".cnf 1000
    end=`date +%s%N`
    runtime=$((end-begin))
    runtime=`expr $runtime / 1000000` 
