@@ -13,11 +13,9 @@ Compile: g++ main.cpp
 
 All files must be in the same folder
 
-The test folder "sat" must be in the same folder as the program
+The test files are numbered 1-10
 
-Run: ./a.out
-
-To run on many instances: compile and run ./hw3
+Run: ./a.out testfile
 
 To test the hill-climbing algorithm, uncomment line 78
 
