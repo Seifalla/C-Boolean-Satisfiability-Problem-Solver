@@ -7,15 +7,17 @@ The formulas are in conjunctive normal form (ANDs of ORs). The fitness of an ass
 
 # Running Instructions:
 
-This program runs on Linux 4.4.0-34-generic x86_64 (DMB 005)
+- This software runs on Linux 4.4.0-34-generic x86_64 (DMB 005)
 
-Compile each program using g++
+- There are three programs, each of which implements an algorithm
 
-All files must be in the same folder
+- Compile each program using g++
 
-The test files are numbered 1-10
+- All files must be in the same folder
 
-Run: ./a.out testfile number_of_iterations
+- The test files are numbered 1-10
+
+- Run: ./a.out testfile number_of_iterations
 
 # Data Structure:
 
