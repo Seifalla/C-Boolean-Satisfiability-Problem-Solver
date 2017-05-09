@@ -11,6 +11,10 @@ This program runs on Linux 4.4.0-34-generic x86_64 (DMB 005)
 
 Compile: g++ main.cpp
 
+All files must be in the same folder
+
+The test folder "sat" must be in the same folder as the program
+
 Run: ./a.out
 
 To run on many instances: compile and run ./hw3
