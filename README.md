@@ -9,15 +9,13 @@ The formulas are in conjunctive normal form (ANDs of ORs). The fitness of an ass
 
 This program runs on Linux 4.4.0-34-generic x86_64 (DMB 005)
 
-Compile: g++ main.cpp
+Compile each program using g++
 
 All files must be in the same folder
 
 The test files are numbered 1-10
 
-Run: ./a.out testfile
-
-To test the hill-climbing algorithm, uncomment line 78
+Run: ./a.out testfile number_of_iterations
 
 # Data Structure:
 
