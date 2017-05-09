@@ -19,6 +19,8 @@ Run: ./a.out
 
 To run on many instances: compile and run ./hw3
 
+To test the hill-climbing algorithm, uncomment line 78
+
 # Data Structure:
 
 I am using a vector to represent the formula where each element is a vector of integers representing the clause, and each integer represents the variable index.
